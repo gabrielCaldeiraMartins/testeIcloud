@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1DA2B25F2948D660004E85C8 /* Math.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DA2B25E2948D660004E85C8 /* Math.swift */; };
+		1DA2B2672948D8AC004E85C8 /* testCameraTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DA2B2662948D8AC004E85C8 /* testCameraTests.swift */; };
+		1DA2B26E2948D8E4004E85C8 /* MathTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DA2B26D2948D8E4004E85C8 /* MathTests.swift */; };
 		1DBBD3E8293A59BE00660523 /* testCameraApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DBBD3E7293A59BE00660523 /* testCameraApp.swift */; };
 		1DBBD3EA293A59BE00660523 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DBBD3E9293A59BE00660523 /* ContentView.swift */; };
 		1DBBD3EC293A59C000660523 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DBBD3EB293A59C000660523 /* Assets.xcassets */; };
@@ -16,7 +19,21 @@
 		1DBBD3FA293A71B000660523 /* CustonCameraView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DBBD3F9293A71B000660523 /* CustonCameraView.swift */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		1DA2B2682948D8AC004E85C8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1DBBD3DC293A59BE00660523 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1DBBD3E3293A59BE00660523;
+			remoteInfo = testCamera;
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
+		1DA2B25E2948D660004E85C8 /* Math.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Math.swift; sourceTree = "<group>"; };
+		1DA2B2642948D8AC004E85C8 /* testCameraTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testCameraTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DA2B2662948D8AC004E85C8 /* testCameraTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testCameraTests.swift; sourceTree = "<group>"; };
+		1DA2B26D2948D8E4004E85C8 /* MathTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MathTests.swift; sourceTree = "<group>"; };
 		1DBBD3E4293A59BE00660523 /* testCamera.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testCamera.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DBBD3E7293A59BE00660523 /* testCameraApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testCameraApp.swift; sourceTree = "<group>"; };
 		1DBBD3E9293A59BE00660523 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -28,6 +45,13 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		1DA2B2612948D8AC004E85C8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		1DBBD3E1293A59BE00660523 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -38,10 +62,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1DA2B2652948D8AC004E85C8 /* testCameraTests */ = {
+			isa = PBXGroup;
+			children = (
+				1DA2B2662948D8AC004E85C8 /* testCameraTests.swift */,
+				1DA2B26D2948D8E4004E85C8 /* MathTests.swift */,
+			);
+			path = testCameraTests;
+			sourceTree = "<group>";
+		};
 		1DBBD3DB293A59BE00660523 = {
 			isa = PBXGroup;
 			children = (
 				1DBBD3E6293A59BE00660523 /* testCamera */,
+				1DA2B2652948D8AC004E85C8 /* testCameraTests */,
 				1DBBD3E5293A59BE00660523 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -50,6 +84,7 @@
 			isa = PBXGroup;
 			children = (
 				1DBBD3E4293A59BE00660523 /* testCamera.app */,
+				1DA2B2642948D8AC004E85C8 /* testCameraTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -64,6 +99,7 @@
 				1DBBD3F5293A5A0D00660523 /* CameraService.swift */,
 				1DBBD3F7293A5A5600660523 /* CameraView.swift */,
 				1DBBD3F9293A71B000660523 /* CustonCameraView.swift */,
+				1DA2B25E2948D660004E85C8 /* Math.swift */,
 			);
 			path = testCamera;
 			sourceTree = "<group>";
@@ -79,6 +115,24 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		1DA2B2632948D8AC004E85C8 /* testCameraTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1DA2B26A2948D8AC004E85C8 /* Build configuration list for PBXNativeTarget "testCameraTests" */;
+			buildPhases = (
+				1DA2B2602948D8AC004E85C8 /* Sources */,
+				1DA2B2612948D8AC004E85C8 /* Frameworks */,
+				1DA2B2622948D8AC004E85C8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1DA2B2692948D8AC004E85C8 /* PBXTargetDependency */,
+			);
+			name = testCameraTests;
+			productName = testCameraTests;
+			productReference = 1DA2B2642948D8AC004E85C8 /* testCameraTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 		1DBBD3E3293A59BE00660523 /* testCamera */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1DBBD3F2293A59C000660523 /* Build configuration list for PBXNativeTarget "testCamera" */;
@@ -106,6 +160,10 @@
 				LastSwiftUpdateCheck = 1410;
 				LastUpgradeCheck = 1410;
 				TargetAttributes = {
+					1DA2B2632948D8AC004E85C8 = {
+						CreatedOnToolsVersion = 14.1;
+						TestTargetID = 1DBBD3E3293A59BE00660523;
+					};
 					1DBBD3E3293A59BE00660523 = {
 						CreatedOnToolsVersion = 14.1;
 					};
@@ -125,11 +183,19 @@
 			projectRoot = "";
 			targets = (
 				1DBBD3E3293A59BE00660523 /* testCamera */,
+				1DA2B2632948D8AC004E85C8 /* testCameraTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		1DA2B2622948D8AC004E85C8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		1DBBD3E2293A59BE00660523 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -142,6 +208,15 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		1DA2B2602948D8AC004E85C8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1DA2B2672948D8AC004E85C8 /* testCameraTests.swift in Sources */,
+				1DA2B26E2948D8E4004E85C8 /* MathTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		1DBBD3E0293A59BE00660523 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -151,12 +226,57 @@
 				1DBBD3E8293A59BE00660523 /* testCameraApp.swift in Sources */,
 				1DBBD3F6293A5A0D00660523 /* CameraService.swift in Sources */,
 				1DBBD3F8293A5A5600660523 /* CameraView.swift in Sources */,
+				1DA2B25F2948D660004E85C8 /* Math.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
+/* Begin PBXTargetDependency section */
+		1DA2B2692948D8AC004E85C8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1DBBD3E3293A59BE00660523 /* testCamera */;
+			targetProxy = 1DA2B2682948D8AC004E85C8 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
 /* Begin XCBuildConfiguration section */
+		1DA2B26B2948D8AC004E85C8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = GLP488PWA5;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = livenessTest.testCameraTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/testCamera.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/testCamera";
+			};
+			name = Debug;
+		};
+		1DA2B26C2948D8AC004E85C8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = GLP488PWA5;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = livenessTest.testCameraTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/testCamera.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/testCamera";
+			};
+			name = Release;
+		};
 		1DBBD3F0293A59C000660523 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -334,6 +454,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		1DA2B26A2948D8AC004E85C8 /* Build configuration list for PBXNativeTarget "testCameraTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DA2B26B2948D8AC004E85C8 /* Debug */,
+				1DA2B26C2948D8AC004E85C8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		1DBBD3DF293A59BE00660523 /* Build configuration list for PBXProject "testCamera" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (

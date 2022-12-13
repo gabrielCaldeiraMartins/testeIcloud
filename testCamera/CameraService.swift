@@ -11,6 +11,15 @@ import AVFoundation
 
 class CameraService {
     
+    let math = Math()
+    
+    private func mathUsege() {
+        print("Add: ", math.add(numb1: 2, numb2: 5) )
+        print("Sub: ", math.sub(numb1: 2, numb2: 5) )
+        print("Mut: ", math.mul(numb1: 2, numb2: 5) )
+        print("Div: ", math.div(numb1: 2, numb2: 5) )
+    }
+    
     var captureSession: AVCaptureSession?
     var delegate: AVCapturePhotoCaptureDelegate?
     
@@ -20,6 +29,7 @@ class CameraService {
     
     func start(delegate: AVCapturePhotoCaptureDelegate, completion: @escaping (Error?) -> ()){
         self.delegate = delegate
+        mathUsege()
         checkPermissions(completion: completion)
     }
     
