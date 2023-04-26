@@ -1,0 +1,3187 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "FaceTecSDK",
+        "printedName": "FaceTecSDK",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "FaceTecSDK",
+        "printedName": "FaceTecSDK",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "LocalAuthentication",
+        "printedName": "LocalAuthentication",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "SystemConfiguration",
+        "printedName": "SystemConfiguration",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Reachability",
+        "printedName": "Reachability",
+        "declKind": "Class",
+        "usr": "s:13CSLivenessSDK12ReachabilityC",
+        "mangledName": "$s13CSLivenessSDK12ReachabilityC",
+        "moduleName": "CSLivenessSDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "FaceTecSDK",
+        "printedName": "FaceTecSDK",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "FaceTecSDK",
+        "printedName": "FaceTecSDK",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "FaceTecSDK",
+        "printedName": "FaceTecSDK",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "FaceTecSDK",
+        "printedName": "FaceTecSDK",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "FaceTecSDK",
+        "printedName": "FaceTecSDK",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "FaceTecSDK",
+        "printedName": "FaceTecSDK",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "FaceTecSDK",
+        "printedName": "FaceTecSDK",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CSLiveness",
+        "printedName": "CSLiveness",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "delegate",
+            "printedName": "delegate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CSLivenessSDK.CSLivenessDelegate?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CSLivenessDelegate",
+                    "printedName": "CSLivenessSDK.CSLivenessDelegate",
+                    "usr": "s:13CSLivenessSDK0A8DelegateP"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13CSLivenessSDK0A0C8delegateAA0A8Delegate_pSgvp",
+            "mangledName": "$s13CSLivenessSDK0A0C8delegateAA0A8Delegate_pSgvp",
+            "moduleName": "CSLivenessSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "CSLivenessSDK.CSLivenessDelegate?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CSLivenessDelegate",
+                        "printedName": "CSLivenessSDK.CSLivenessDelegate",
+                        "usr": "s:13CSLivenessSDK0A8DelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13CSLivenessSDK0A0C8delegateAA0A8Delegate_pSgvg",
+                "mangledName": "$s13CSLivenessSDK0A0C8delegateAA0A8Delegate_pSgvg",
+                "moduleName": "CSLivenessSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "CSLivenessSDK.CSLivenessDelegate?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CSLivenessDelegate",
+                        "printedName": "CSLivenessSDK.CSLivenessDelegate",
+                        "usr": "s:13CSLivenessSDK0A8DelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13CSLivenessSDK0A0C8delegateAA0A8Delegate_pSgvs",
+                "mangledName": "$s13CSLivenessSDK0A0C8delegateAA0A8Delegate_pSgvs",
+                "moduleName": "CSLivenessSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13CSLivenessSDK0A0C8delegateAA0A8Delegate_pSgvM",
+                "mangledName": "$s13CSLivenessSDK0A0C8delegateAA0A8Delegate_pSgvM",
+                "moduleName": "CSLivenessSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(configurations:debug:vocalGuidance:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CSLiveness",
+                "printedName": "CSLivenessSDK.CSLiveness",
+                "usr": "c:@M@CSLivenessSDK@objc(cs)CSLiveness"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CSLivenessConfigurations",
+                "printedName": "CSLivenessSDK.CSLivenessConfigurations",
+                "usr": "c:@M@CSLivenessSDK@objc(cs)CSLivenessConfigurations"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:13CSLivenessSDK0A0C14configurations5debug13vocalGuidanceAcA0A14ConfigurationsC_S2btcfc",
+            "mangledName": "$s13CSLivenessSDK0A0C14configurations5debug13vocalGuidanceAcA0A14ConfigurationsC_S2btcfc",
+            "moduleName": "CSLivenessSDK",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CSLiveness",
+                "printedName": "CSLivenessSDK.CSLiveness",
+                "usr": "c:@M@CSLivenessSDK@objc(cs)CSLiveness"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@CSLivenessSDK@objc(cs)CSLiveness(im)init",
+            "mangledName": "$s13CSLivenessSDK0A0CACycfc",
+            "moduleName": "CSLivenessSDK",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "start",
+            "printedName": "start(viewController:animated:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13CSLivenessSDK0A0C5start14viewController8animatedySo06UIViewE0C_SbtF",
+            "mangledName": "$s13CSLivenessSDK0A0C5start14viewController8animatedySo06UIViewE0C_SbtF",
+            "moduleName": "CSLivenessSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@CSLivenessSDK@objc(cs)CSLiveness",
+        "mangledName": "$s13CSLivenessSDK0A0C",
+        "moduleName": "CSLivenessSDK",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CSLivenessError",
+        "printedName": "CSLivenessError",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "none",
+            "printedName": "none",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CSLivenessSDK.CSLivenessError.Type) -> CSLivenessSDK.CSLivenessError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CSLivenessError",
+                    "printedName": "CSLivenessSDK.CSLivenessError",
+                    "usr": "s:13CSLivenessSDK0A5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CSLivenessSDK.CSLivenessError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CSLivenessError",
+                        "printedName": "CSLivenessSDK.CSLivenessError",
+                        "usr": "s:13CSLivenessSDK0A5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:13CSLivenessSDK0A5ErrorO4noneyA2CmF",
+            "mangledName": "$s13CSLivenessSDK0A5ErrorO4noneyA2CmF",
+            "moduleName": "CSLivenessSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "maxRetry",
+            "printedName": "maxRetry",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CSLivenessSDK.CSLivenessError.Type) -> CSLivenessSDK.CSLivenessError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CSLivenessError",
+                    "printedName": "CSLivenessSDK.CSLivenessError",
+                    "usr": "s:13CSLivenessSDK0A5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CSLivenessSDK.CSLivenessError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CSLivenessError",
+                        "printedName": "CSLivenessSDK.CSLivenessError",
+                        "usr": "s:13CSLivenessSDK0A5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:13CSLivenessSDK0A5ErrorO8maxRetryyA2CmF",
+            "mangledName": "$s13CSLivenessSDK0A5ErrorO8maxRetryyA2CmF",
+            "moduleName": "CSLivenessSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "userCancel",
+            "printedName": "userCancel",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CSLivenessSDK.CSLivenessError.Type) -> CSLivenessSDK.CSLivenessError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CSLivenessError",
+                    "printedName": "CSLivenessSDK.CSLivenessError",
+                    "usr": "s:13CSLivenessSDK0A5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CSLivenessSDK.CSLivenessError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CSLivenessError",
+                        "printedName": "CSLivenessSDK.CSLivenessError",
+                        "usr": "s:13CSLivenessSDK0A5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:13CSLivenessSDK0A5ErrorO10userCancelyA2CmF",
+            "mangledName": "$s13CSLivenessSDK0A5ErrorO10userCancelyA2CmF",
+            "moduleName": "CSLivenessSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "network",
+            "printedName": "network",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CSLivenessSDK.CSLivenessError.Type) -> CSLivenessSDK.CSLivenessError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CSLivenessError",
+                    "printedName": "CSLivenessSDK.CSLivenessError",
+                    "usr": "s:13CSLivenessSDK0A5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CSLivenessSDK.CSLivenessError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CSLivenessError",
+                        "printedName": "CSLivenessSDK.CSLivenessError",
+                        "usr": "s:13CSLivenessSDK0A5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:13CSLivenessSDK0A5ErrorO7networkyA2CmF",
+            "mangledName": "$s13CSLivenessSDK0A5ErrorO7networkyA2CmF",
+            "moduleName": "CSLivenessSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "authentication",
+            "printedName": "authentication",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CSLivenessSDK.CSLivenessError.Type) -> CSLivenessSDK.CSLivenessError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CSLivenessError",
+                    "printedName": "CSLivenessSDK.CSLivenessError",
+                    "usr": "s:13CSLivenessSDK0A5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CSLivenessSDK.CSLivenessError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CSLivenessError",
+                        "printedName": "CSLivenessSDK.CSLivenessError",
+                        "usr": "s:13CSLivenessSDK0A5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:13CSLivenessSDK0A5ErrorO14authenticationyA2CmF",
+            "mangledName": "$s13CSLivenessSDK0A5ErrorO14authenticationyA2CmF",
+            "moduleName": "CSLivenessSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "alreadyOpened",
+            "printedName": "alreadyOpened",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CSLivenessSDK.CSLivenessError.Type) -> CSLivenessSDK.CSLivenessError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CSLivenessError",
+                    "printedName": "CSLivenessSDK.CSLivenessError",
+                    "usr": "s:13CSLivenessSDK0A5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CSLivenessSDK.CSLivenessError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CSLivenessError",
+                        "printedName": "CSLivenessSDK.CSLivenessError",
+                        "usr": "s:13CSLivenessSDK0A5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:13CSLivenessSDK0A5ErrorO13alreadyOpenedyA2CmF",
+            "mangledName": "$s13CSLivenessSDK0A5ErrorO13alreadyOpenedyA2CmF",
+            "moduleName": "CSLivenessSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "landscapeModeNotAllowed",
+            "printedName": "landscapeModeNotAllowed",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CSLivenessSDK.CSLivenessError.Type) -> CSLivenessSDK.CSLivenessError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CSLivenessError",
+                    "printedName": "CSLivenessSDK.CSLivenessError",
+                    "usr": "s:13CSLivenessSDK0A5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CSLivenessSDK.CSLivenessError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CSLivenessError",
+                        "printedName": "CSLivenessSDK.CSLivenessError",
+                        "usr": "s:13CSLivenessSDK0A5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:13CSLivenessSDK0A5ErrorO23landscapeModeNotAllowedyA2CmF",
+            "mangledName": "$s13CSLivenessSDK0A5ErrorO23landscapeModeNotAllowedyA2CmF",
+            "moduleName": "CSLivenessSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "cameraPermissionDenied",
+            "printedName": "cameraPermissionDenied",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CSLivenessSDK.CSLivenessError.Type) -> CSLivenessSDK.CSLivenessError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CSLivenessError",
+                    "printedName": "CSLivenessSDK.CSLivenessError",
+                    "usr": "s:13CSLivenessSDK0A5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CSLivenessSDK.CSLivenessError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CSLivenessError",
+                        "printedName": "CSLivenessSDK.CSLivenessError",
+                        "usr": "s:13CSLivenessSDK0A5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:13CSLivenessSDK0A5ErrorO22cameraPermissionDeniedyA2CmF",
+            "mangledName": "$s13CSLivenessSDK0A5ErrorO22cameraPermissionDeniedyA2CmF",
+            "moduleName": "CSLivenessSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "lowMemory",
+            "printedName": "lowMemory",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CSLivenessSDK.CSLivenessError.Type) -> CSLivenessSDK.CSLivenessError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CSLivenessError",
+                    "printedName": "CSLivenessSDK.CSLivenessError",
+                    "usr": "s:13CSLivenessSDK0A5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CSLivenessSDK.CSLivenessError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CSLivenessError",
+                        "printedName": "CSLivenessSDK.CSLivenessError",
+                        "usr": "s:13CSLivenessSDK0A5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:13CSLivenessSDK0A5ErrorO9lowMemoryyA2CmF",
+            "mangledName": "$s13CSLivenessSDK0A5ErrorO9lowMemoryyA2CmF",
+            "moduleName": "CSLivenessSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "cameraInitializationIssue",
+            "printedName": "cameraInitializationIssue",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CSLivenessSDK.CSLivenessError.Type) -> CSLivenessSDK.CSLivenessError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CSLivenessError",
+                    "printedName": "CSLivenessSDK.CSLivenessError",
+                    "usr": "s:13CSLivenessSDK0A5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CSLivenessSDK.CSLivenessError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CSLivenessError",
+                        "printedName": "CSLivenessSDK.CSLivenessError",
+                        "usr": "s:13CSLivenessSDK0A5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:13CSLivenessSDK0A5ErrorO25cameraInitializationIssueyA2CmF",
+            "mangledName": "$s13CSLivenessSDK0A5ErrorO25cameraInitializationIssueyA2CmF",
+            "moduleName": "CSLivenessSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "timeout",
+            "printedName": "timeout",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CSLivenessSDK.CSLivenessError.Type) -> CSLivenessSDK.CSLivenessError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CSLivenessError",
+                    "printedName": "CSLivenessSDK.CSLivenessError",
+                    "usr": "s:13CSLivenessSDK0A5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CSLivenessSDK.CSLivenessError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CSLivenessError",
+                        "printedName": "CSLivenessSDK.CSLivenessError",
+                        "usr": "s:13CSLivenessSDK0A5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:13CSLivenessSDK0A5ErrorO7timeoutyA2CmF",
+            "mangledName": "$s13CSLivenessSDK0A5ErrorO7timeoutyA2CmF",
+            "moduleName": "CSLivenessSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "unexpected",
+            "printedName": "unexpected",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CSLivenessSDK.CSLivenessError.Type) -> CSLivenessSDK.CSLivenessError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CSLivenessError",
+                    "printedName": "CSLivenessSDK.CSLivenessError",
+                    "usr": "s:13CSLivenessSDK0A5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CSLivenessSDK.CSLivenessError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CSLivenessError",
+                        "printedName": "CSLivenessSDK.CSLivenessError",
+                        "usr": "s:13CSLivenessSDK0A5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:13CSLivenessSDK0A5ErrorO10unexpectedyA2CmF",
+            "mangledName": "$s13CSLivenessSDK0A5ErrorO10unexpectedyA2CmF",
+            "moduleName": "CSLivenessSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "background",
+            "printedName": "background",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(CSLivenessSDK.CSLivenessError.Type) -> CSLivenessSDK.CSLivenessError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CSLivenessError",
+                    "printedName": "CSLivenessSDK.CSLivenessError",
+                    "usr": "s:13CSLivenessSDK0A5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "CSLivenessSDK.CSLivenessError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CSLivenessError",
+                        "printedName": "CSLivenessSDK.CSLivenessError",
+                        "usr": "s:13CSLivenessSDK0A5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:13CSLivenessSDK0A5ErrorO10backgroundyA2CmF",
+            "mangledName": "$s13CSLivenessSDK0A5ErrorO10backgroundyA2CmF",
+            "moduleName": "CSLivenessSDK"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CSLivenessSDK.CSLivenessError?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CSLivenessError",
+                    "printedName": "CSLivenessSDK.CSLivenessError",
+                    "usr": "s:13CSLivenessSDK0A5ErrorO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:13CSLivenessSDK0A5ErrorO8rawValueACSgSS_tcfc",
+            "mangledName": "$s13CSLivenessSDK0A5ErrorO8rawValueACSgSS_tcfc",
+            "moduleName": "CSLivenessSDK",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13CSLivenessSDK0A5ErrorO8rawValueSSvp",
+            "mangledName": "$s13CSLivenessSDK0A5ErrorO8rawValueSSvp",
+            "moduleName": "CSLivenessSDK",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13CSLivenessSDK0A5ErrorO8rawValueSSvg",
+                "mangledName": "$s13CSLivenessSDK0A5ErrorO8rawValueSSvg",
+                "moduleName": "CSLivenessSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:13CSLivenessSDK0A5ErrorO",
+        "mangledName": "$s13CSLivenessSDK0A5ErrorO",
+        "moduleName": "CSLivenessSDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "enumRawTypeName": "String",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Error",
+            "printedName": "Error",
+            "usr": "s:s5ErrorP",
+            "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CSLivenessDelegate",
+        "printedName": "CSLivenessDelegate",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "liveness",
+            "printedName": "liveness(didOpen:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13CSLivenessSDK0A8DelegateP8liveness7didOpenySb_tF",
+            "mangledName": "$s13CSLivenessSDK0A8DelegateP8liveness7didOpenySb_tF",
+            "moduleName": "CSLivenessSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : CSLivenessSDK.CSLivenessDelegate>",
+            "sugared_genericSig": "<Self where Self : CSLivenessSDK.CSLivenessDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "liveness",
+            "printedName": "liveness(error:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CSLivenessError",
+                "printedName": "CSLivenessSDK.CSLivenessError",
+                "usr": "s:13CSLivenessSDK0A5ErrorO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13CSLivenessSDK0A8DelegateP8liveness5erroryAA0A5ErrorO_tF",
+            "mangledName": "$s13CSLivenessSDK0A8DelegateP8liveness5erroryAA0A5ErrorO_tF",
+            "moduleName": "CSLivenessSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : CSLivenessSDK.CSLivenessDelegate>",
+            "sugared_genericSig": "<Self where Self : CSLivenessSDK.CSLivenessDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "liveness",
+            "printedName": "liveness(success:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CSLivenessResult",
+                "printedName": "CSLivenessSDK.CSLivenessResult",
+                "usr": "c:@M@CSLivenessSDK@objc(cs)CSLivenessResult"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13CSLivenessSDK0A8DelegateP8liveness7successyAA0A6ResultC_tF",
+            "mangledName": "$s13CSLivenessSDK0A8DelegateP8liveness7successyAA0A6ResultC_tF",
+            "moduleName": "CSLivenessSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : CSLivenessSDK.CSLivenessDelegate>",
+            "sugared_genericSig": "<Self where Self : CSLivenessSDK.CSLivenessDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:13CSLivenessSDK0A8DelegateP",
+        "mangledName": "$s13CSLivenessSDK0A8DelegateP",
+        "moduleName": "CSLivenessSDK",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "FaceTecSDK",
+        "printedName": "FaceTecSDK",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "FaceTecSDK",
+        "printedName": "FaceTecSDK",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AuthConfigurations",
+        "printedName": "AuthConfigurations",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(baseUrl:serviceCode:clientId:clientSecret:username:password:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AuthConfigurations",
+                "printedName": "CSLivenessSDK.AuthConfigurations",
+                "usr": "s:13CSLivenessSDK18AuthConfigurationsV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:13CSLivenessSDK18AuthConfigurationsV7baseUrl11serviceCode8clientId0I6Secret8username8passwordACSS_S5Stcfc",
+            "mangledName": "$s13CSLivenessSDK18AuthConfigurationsV7baseUrl11serviceCode8clientId0I6Secret8username8passwordACSS_S5Stcfc",
+            "moduleName": "CSLivenessSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:13CSLivenessSDK18AuthConfigurationsV",
+        "mangledName": "$s13CSLivenessSDK18AuthConfigurationsV",
+        "moduleName": "CSLivenessSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "FaceTecSDK",
+        "printedName": "FaceTecSDK",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CSLivenessConfigurations",
+        "printedName": "CSLivenessConfigurations",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(clientId:clientSecret:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CSLivenessConfigurations",
+                "printedName": "CSLivenessSDK.CSLivenessConfigurations",
+                "usr": "c:@M@CSLivenessSDK@objc(cs)CSLivenessConfigurations"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:13CSLivenessSDK0A14ConfigurationsC8clientId0D6SecretACSS_SStcfc",
+            "mangledName": "$s13CSLivenessSDK0A14ConfigurationsC8clientId0D6SecretACSS_SStcfc",
+            "moduleName": "CSLivenessSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CSLivenessConfigurations",
+                "printedName": "CSLivenessSDK.CSLivenessConfigurations",
+                "usr": "c:@M@CSLivenessSDK@objc(cs)CSLivenessConfigurations"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@CSLivenessSDK@objc(cs)CSLivenessConfigurations(im)init",
+            "mangledName": "$s13CSLivenessSDK0A14ConfigurationsCACycfc",
+            "moduleName": "CSLivenessSDK",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@CSLivenessSDK@objc(cs)CSLivenessConfigurations",
+        "mangledName": "$s13CSLivenessSDK0A14ConfigurationsC",
+        "moduleName": "CSLivenessSDK",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Sentry",
+        "printedName": "Sentry",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Amplitude",
+        "printedName": "Amplitude",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "FaceTecSDK",
+        "printedName": "FaceTecSDK",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CSLivenessResult",
+        "printedName": "CSLivenessResult",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "real",
+            "printedName": "real",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13CSLivenessSDK0A6ResultC4realSbvp",
+            "mangledName": "$s13CSLivenessSDK0A6ResultC4realSbvp",
+            "moduleName": "CSLivenessSDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13CSLivenessSDK0A6ResultC4realSbvg",
+                "mangledName": "$s13CSLivenessSDK0A6ResultC4realSbvg",
+                "moduleName": "CSLivenessSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "sessionId",
+            "printedName": "sessionId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13CSLivenessSDK0A6ResultC9sessionIdSSvp",
+            "mangledName": "$s13CSLivenessSDK0A6ResultC9sessionIdSSvp",
+            "moduleName": "CSLivenessSDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13CSLivenessSDK0A6ResultC9sessionIdSSvg",
+                "mangledName": "$s13CSLivenessSDK0A6ResultC9sessionIdSSvg",
+                "moduleName": "CSLivenessSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "image",
+            "printedName": "image",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:13CSLivenessSDK0A6ResultC5imageSSvp",
+            "mangledName": "$s13CSLivenessSDK0A6ResultC5imageSSvp",
+            "moduleName": "CSLivenessSDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:13CSLivenessSDK0A6ResultC5imageSSvg",
+                "mangledName": "$s13CSLivenessSDK0A6ResultC5imageSSvg",
+                "moduleName": "CSLivenessSDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(real:sessionId:image:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CSLivenessResult",
+                "printedName": "CSLivenessSDK.CSLivenessResult",
+                "usr": "c:@M@CSLivenessSDK@objc(cs)CSLivenessResult"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:13CSLivenessSDK0A6ResultC4real9sessionId5imageACSb_S2Stcfc",
+            "mangledName": "$s13CSLivenessSDK0A6ResultC4real9sessionId5imageACSb_S2Stcfc",
+            "moduleName": "CSLivenessSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CSLivenessResult",
+                "printedName": "CSLivenessSDK.CSLivenessResult",
+                "usr": "c:@M@CSLivenessSDK@objc(cs)CSLivenessResult"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@CSLivenessSDK@objc(cs)CSLivenessResult(im)init",
+            "mangledName": "$s13CSLivenessSDK0A6ResultCACycfc",
+            "moduleName": "CSLivenessSDK",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@CSLivenessSDK@objc(cs)CSLivenessResult",
+        "mangledName": "$s13CSLivenessSDK0A6ResultC",
+        "moduleName": "CSLivenessSDK",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "FaceTecSDK",
+        "printedName": "FaceTecSDK",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "CSLivenessSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "URLSession",
+        "printedName": "URLSession",
+        "declKind": "Class",
+        "usr": "c:objc(cs)NSURLSession",
+        "moduleName": "Foundation",
+        "isOpen": true,
+        "intro_iOS": "7.0",
+        "objc_name": "NSURLSession",
+        "declAttributes": [
+          "Available",
+          "ObjC",
+          "SynthesizedProtocol",
+          "NonSendable",
+          "Sendable",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "URLSessionDataTask",
+        "printedName": "URLSessionDataTask",
+        "declKind": "Class",
+        "usr": "c:objc(cs)NSURLSessionDataTask",
+        "moduleName": "Foundation",
+        "isOpen": true,
+        "intro_iOS": "7.0",
+        "objc_name": "NSURLSessionDataTask",
+        "declAttributes": [
+          "Available",
+          "ObjC",
+          "SynthesizedProtocol",
+          "NonSendable",
+          "Sendable",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSURLSessionTask",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "Foundation.URLSessionTask",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Access\/CSLiveness+Models.swift",
+      "kind": "StringLiteral",
+      "offset": 192,
+      "length": 39,
+      "value": "\"https:\/\/liveness-hml.clearsale.com.br\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Access\/CSLiveness+Models.swift",
+      "kind": "StringLiteral",
+      "offset": 192,
+      "length": 39,
+      "value": "\"https:\/\/liveness-hml.clearsale.com.br\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Access\/CSLiveness+Models.swift",
+      "kind": "StringLiteral",
+      "offset": 291,
+      "length": 76,
+      "value": "\"https:\/\/15be94c872af4b85b3d3c5a3e8e56fda@o1163105.ingest.sentry.io\/6342465\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Access\/CSLiveness+Models.swift",
+      "kind": "StringLiteral",
+      "offset": 393,
+      "length": 76,
+      "value": "\"https:\/\/8aa6f51a31784ac49ecc14b9f96c3d50@o1163105.ingest.sentry.io\/6299528\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Access\/CSLiveness+Models.swift",
+      "kind": "StringLiteral",
+      "offset": 492,
+      "length": 34,
+      "value": "\"5ed603f2c93566144c11ed49691f26dc\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Access\/CSLiveness+Models.swift",
+      "kind": "StringLiteral",
+      "offset": 291,
+      "length": 76,
+      "value": "\"https:\/\/15be94c872af4b85b3d3c5a3e8e56fda@o1163105.ingest.sentry.io\/6342465\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Access\/CSLiveness+Models.swift",
+      "kind": "StringLiteral",
+      "offset": 393,
+      "length": 76,
+      "value": "\"https:\/\/8aa6f51a31784ac49ecc14b9f96c3d50@o1163105.ingest.sentry.io\/6299528\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Access\/CSLiveness+Models.swift",
+      "kind": "StringLiteral",
+      "offset": 492,
+      "length": 34,
+      "value": "\"5ed603f2c93566144c11ed49691f26dc\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Processors\/EnrollmentProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 518,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Processors\/EnrollmentProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 353,
+      "length": 19,
+      "value": "\"CSLivenessSDK.EnrollmentProcessor\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/SupportingFiles\/ThemeViews\/NFCStartingAnimationView.swift",
+      "kind": "StringLiteral",
+      "offset": 20,
+      "length": 24,
+      "value": "\"CSLivenessSDK.NFCStartingAnimationView\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/SupportingFiles\/ThemeViews\/NFCScanningAnimationViewGreen.swift",
+      "kind": "StringLiteral",
+      "offset": 20,
+      "length": 29,
+      "value": "\"CSLivenessSDK.NFCScanningAnimationViewGreen\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/ViewControllers\/SampleAppViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 666,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/SupportingFiles\/ThemeViews\/NFCScanningAnimationViewBlack.swift",
+      "kind": "StringLiteral",
+      "offset": 20,
+      "length": 29,
+      "value": "\"CSLivenessSDK.NFCScanningAnimationViewBlack\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Utilities\/SampleAppUtilities.swift",
+      "kind": "StringLiteral",
+      "offset": 564,
+      "length": 21,
+      "value": "\"Config Wizard Theme\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Utilities\/SampleAppUtilities.swift",
+      "kind": "StringLiteral",
+      "offset": 588,
+      "length": 15,
+      "value": "\"FaceTec Theme\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Utilities\/SampleAppUtilities.swift",
+      "kind": "BooleanLiteral",
+      "offset": 677,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Utilities\/SampleAppUtilities.swift",
+      "kind": "StringLiteral",
+      "offset": 76,
+      "length": 18,
+      "value": "\"CSLivenessSDK.SampleAppUtilities\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Processors_min_no_networking\/LivenessCheckProcessor_min_no_networking.swift",
+      "kind": "StringLiteral",
+      "offset": 588,
+      "length": 40,
+      "value": "\"CSLivenessSDK.LivenessCheckProcessor_min_no_networking\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Config.swift",
+      "kind": "StringLiteral",
+      "offset": 972,
+      "length": 27,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Config.swift",
+      "kind": "StringLiteral",
+      "offset": 994,
+      "length": 1,
+      "value": "\"\/api\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Config.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12661,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Processors\/PhotoIDMatchProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 557,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Processors\/PhotoIDMatchProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 595,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Processors\/PhotoIDMatchProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 359,
+      "length": 20,
+      "value": "\"CSLivenessSDK.PhotoIDScanProcessor\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Processors_min_no_networking\/PhotoIDScanProcessor_min_no_networking.swift",
+      "kind": "StringLiteral",
+      "offset": 597,
+      "length": 38,
+      "value": "\"CSLivenessSDK.PhotoIDScanProcessor_min_no_networking\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Access\/CSLiveness.swift",
+      "kind": "BooleanLiteral",
+      "offset": 239,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Access\/CSLiveness.swift",
+      "kind": "BooleanLiteral",
+      "offset": 717,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Access\/CSLiveness.swift",
+      "kind": "BooleanLiteral",
+      "offset": 746,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Access\/CSLiveness.swift",
+      "kind": "StringLiteral",
+      "offset": 69,
+      "length": 10,
+      "value": "\"CSLivenessSDK.CSLiveness\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/SupportingFiles\/ThemeViews\/NFCScanningAnimationView.swift",
+      "kind": "StringLiteral",
+      "offset": 20,
+      "length": 24,
+      "value": "\"CSLivenessSDK.NFCScanningAnimationView\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/SupportingFiles\/ThemeViews\/NFCScanningAnimationViewRed.swift",
+      "kind": "StringLiteral",
+      "offset": 20,
+      "length": 27,
+      "value": "\"CSLivenessSDK.NFCScanningAnimationViewRed\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Processors_min_no_networking\/EnrollmentProcessor_min_no_networking.swift",
+      "kind": "StringLiteral",
+      "offset": 589,
+      "length": 37,
+      "value": "\"CSLivenessSDK.EnrollmentProcessor_min_no_networking\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Processors\/LivenessCheckProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 529,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Processors\/LivenessCheckProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 361,
+      "length": 22,
+      "value": "\"CSLivenessSDK.LivenessCheckProcessor\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Model\/Auth\/AuthResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 849,
+      "length": 13,
+      "value": "\"accessToken\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Model\/Auth\/AuthResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 888,
+      "length": 11,
+      "value": "\"expiresIn\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Model\/Auth\/AuthResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 925,
+      "length": 11,
+      "value": "\"tokenType\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Model\/Auth\/AuthResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 962,
+      "length": 11,
+      "value": "\"deviceKey\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Model\/Auth\/AuthResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1003,
+      "length": 15,
+      "value": "\"productionKey\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Model\/Auth\/AuthResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1062,
+      "length": 29,
+      "value": "\"publicFaceScanEncryptionKey\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Model\/Auth\/AuthResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 849,
+      "length": 13,
+      "value": "\"accessToken\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Model\/Auth\/AuthResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 888,
+      "length": 11,
+      "value": "\"expiresIn\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Model\/Auth\/AuthResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 925,
+      "length": 11,
+      "value": "\"tokenType\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Model\/Auth\/AuthResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 962,
+      "length": 11,
+      "value": "\"deviceKey\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Model\/Auth\/AuthResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1003,
+      "length": 15,
+      "value": "\"productionKey\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Model\/Auth\/AuthResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 1062,
+      "length": 29,
+      "value": "\"publicFaceScanEncryptionKey\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 106,
+      "length": 32,
+      "value": "\"CSLiveness -> Início Liveness\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 177,
+      "length": 36,
+      "value": "\"CSLiveness -> Clique no saiba mais\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 264,
+      "length": 44,
+      "value": "\"CSLiveness -> Entrou na tela de permissão\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 352,
+      "length": 46,
+      "value": "\"CSLiveness -> Entrou na tela de pré captura\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 445,
+      "length": 33,
+      "value": "\"CSLiveness -> Permissão negada\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 526,
+      "length": 36,
+      "value": "\"CSLiveness -> Permissão concedida\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 605,
+      "length": 33,
+      "value": "\"CSLiveness -> Captura iniciada.\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 682,
+      "length": 35,
+      "value": "\"CSLiveness -> Captura finalizada.\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 762,
+      "length": 47,
+      "value": "\"CSLiveness -> Captura finalizada com sucesso.\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 861,
+      "length": 28,
+      "value": "\"Captura feita com sucesso!\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 931,
+      "length": 45,
+      "value": "\"CSLiveness -> Captura finalizada com falha.\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 1019,
+      "length": 31,
+      "value": "\"CSLiveness -> Captura de foto\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 1095,
+      "length": 36,
+      "value": "\"CSLiveness -> Entrou em background\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 1177,
+      "length": 39,
+      "value": "\"CSLiveness -> LivenessCheckProcessor \""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 1276,
+      "length": 54,
+      "value": "\"CSLiveness -> LivenessCheckProcessor UNEXPECTED data\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 1390,
+      "length": 62,
+      "value": "\"CSLiveness -> LivenessCheckProcessor UNEXPECTED responseJSON\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 1503,
+      "length": 64,
+      "value": "\"CSLiveness -> LivenessCheckProcessor UNEXPECTED scanResultBlob\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 1601,
+      "length": 22,
+      "value": "\"Ainda processando...\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 1667,
+      "length": 83,
+      "value": "\"CSLiveness Exception raised while attempting HTTPS call. No sessionToken founded.\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 1787,
+      "length": 58,
+      "value": "\"CSLiveness Exception raised while attempting HTTPS call.\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 1927,
+      "length": 27,
+      "value": "\"liveness.sdk.studio.error\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 2007,
+      "length": 28,
+      "value": "\"liveness.sdk.facetec.error\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 2087,
+      "length": 27,
+      "value": "\"liveness.sdk.studio.start\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 2166,
+      "length": 27,
+      "value": "\"liveness.sdk.facetec.open\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 2241,
+      "length": 38,
+      "value": "\"liveness.sdk.facetec.capture.success\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 2329,
+      "length": 33,
+      "value": "\"liveness.sdk.facetec.user.close\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 2408,
+      "length": 28,
+      "value": "\"liveness.sdk.facetec.close\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 2495,
+      "length": 42,
+      "value": "\"liveness.sdk.facetec.capture.notapproved\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 2588,
+      "length": 33,
+      "value": "\"liveness.sdk.facetec.background\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 2685,
+      "length": 12,
+      "value": "\"Auth Error\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 2731,
+      "length": 13,
+      "value": "\"ServerError\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 2776,
+      "length": 11,
+      "value": "\"JsonError\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 2827,
+      "length": 30,
+      "value": "\"Captura finalizada com falha\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 2889,
+      "length": 12,
+      "value": "\"Low Memory\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 2934,
+      "length": 12,
+      "value": "\"Background\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 3030,
+      "length": 21,
+      "value": "\"Config Wizard Theme\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 3086,
+      "length": 15,
+      "value": "\"FaceTec Theme\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 3170,
+      "length": 51,
+      "value": "\"Please enroll first before trying authentication.\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 3251,
+      "length": 9,
+      "value": "\"Success\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 3294,
+      "length": 50,
+      "value": "\"Session exited early, see logs for more details.\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Services\/MonitoringService\/MonitoringService+Extensions.swift",
+      "kind": "StringLiteral",
+      "offset": 3380,
+      "length": 26,
+      "value": "\"App moved to background!\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Model\/Auth\/AuthConfigurations.swift",
+      "kind": "StringLiteral",
+      "offset": 226,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Model\/Auth\/AuthConfigurations.swift",
+      "kind": "StringLiteral",
+      "offset": 252,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Model\/Auth\/AuthConfigurations.swift",
+      "kind": "StringLiteral",
+      "offset": 275,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Model\/Auth\/AuthConfigurations.swift",
+      "kind": "StringLiteral",
+      "offset": 302,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Model\/Auth\/AuthConfigurations.swift",
+      "kind": "StringLiteral",
+      "offset": 325,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Model\/Auth\/AuthConfigurations.swift",
+      "kind": "StringLiteral",
+      "offset": 348,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/SupportingFiles\/ThemeViews\/EKYCActivityIndicatorView.swift",
+      "kind": "Array",
+      "offset": 127,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Processors\/AuthenticateProcessor.swift",
+      "kind": "BooleanLiteral",
+      "offset": 554,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Processors\/AuthenticateProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 387,
+      "length": 21,
+      "value": "\"CSLivenessSDK.AuthenticateProcessor\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Access\/CSLivenessConfigurations.swift",
+      "kind": "StringLiteral",
+      "offset": 19,
+      "length": 24,
+      "value": "\"CSLivenessSDK.CSLivenessConfigurations\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Access\/CSLivenessResult.swift",
+      "kind": "StringLiteral",
+      "offset": 19,
+      "length": 16,
+      "value": "\"CSLivenessSDK.CSLivenessResult\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Processors_min_no_networking\/AuthenticateProcessor_min_no_networking.swift",
+      "kind": "StringLiteral",
+      "offset": 598,
+      "length": 39,
+      "value": "\"CSLivenessSDK.AuthenticateProcessor_min_no_networking\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Views\/SampleAppActionButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 193,
+      "length": 5,
+      "value": "0.255"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Views\/SampleAppActionButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 207,
+      "length": 5,
+      "value": "0.498"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Views\/SampleAppActionButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 220,
+      "length": 5,
+      "value": "0.698"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Views\/SampleAppActionButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 234,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Views\/SampleAppActionButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 295,
+      "length": 5,
+      "value": "0.255"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Views\/SampleAppActionButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 309,
+      "length": 5,
+      "value": "0.498"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Views\/SampleAppActionButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 322,
+      "length": 5,
+      "value": "0.689"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Views\/SampleAppActionButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 336,
+      "length": 3,
+      "value": "0.4"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Views\/SampleAppActionButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 400,
+      "length": 5,
+      "value": "0.224"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Views\/SampleAppActionButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 414,
+      "length": 5,
+      "value": "0.431"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Views\/SampleAppActionButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 427,
+      "length": 3,
+      "value": "0.6"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Views\/SampleAppActionButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 439,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Views\/SampleAppActionButton.swift",
+      "kind": "BooleanLiteral",
+      "offset": 507,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Views\/SampleAppActionButton.swift",
+      "kind": "BooleanLiteral",
+      "offset": 532,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Views\/SampleAppActionButton.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1009,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Views\/SampleAppActionButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 1013,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Views\/SampleAppActionButton.swift",
+      "kind": "FloatLiteral",
+      "offset": 1664,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/facetec\/facetec_implementation\/Views\/SampleAppActionButton.swift",
+      "kind": "StringLiteral",
+      "offset": 103,
+      "length": 21,
+      "value": "\"CSLivenessSDK.SampleAppActionButton\""
+    },
+    {
+      "filePath": "\/Users\/lucas.carvalho\/Developer\/studio-ios-liveness-third\/CSLivenessSDK\/CSLivenessSDK\/Features\/Repositories\/Auth\/AuthRepository.swift",
+      "kind": "StringLiteral",
+      "offset": 213,
+      "length": 16,
+      "value": "\"AuthRepository\""
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+PODS:
+  - Amplitude (8.15.0):
+    - AnalyticsConnector (~> 1.0.0)
+  - AnalyticsConnector (1.0.1)
+  - CSLivenessFTechSDK (9.6.29)
+  - CSLivenessSDK (1.1.3-hml):
+    - Amplitude (= 8.15.0)
+    - CSLivenessFTechSDK (= 9.6.29)
+    - Sentry (= 8.1.0)
+  - Sentry (8.1.0):
+    - Sentry/Core (= 8.1.0)
+    - SentryPrivate (= 8.1.0)
+  - Sentry/Core (8.1.0):
+    - SentryPrivate (= 8.1.0)
+  - SentryPrivate (8.1.0)
+
+DEPENDENCIES:
+  - "CSLivenessSDK (from `https://CS-Packages:bawrhf6y4gsalplgwlo2qb36snpgt233spep2xggciffzudw7kca@dev.azure.com/CS-Package/ID-Lab-PackagesSDK/_git/CSLivenessSDK`, tag `1.1.3-hml`)"
+
+SPEC REPOS:
+  trunk:
+    - Amplitude
+    - AnalyticsConnector
+    - CSLivenessFTechSDK
+    - Sentry
+    - SentryPrivate
+
+EXTERNAL SOURCES:
+  CSLivenessSDK:
+    :git: "https://CS-Packages:bawrhf6y4gsalplgwlo2qb36snpgt233spep2xggciffzudw7kca@dev.azure.com/CS-Package/ID-Lab-PackagesSDK/_git/CSLivenessSDK"
+    :tag: 1.1.3-hml
+
+CHECKOUT OPTIONS:
+  CSLivenessSDK:
+    :git: "https://CS-Packages:bawrhf6y4gsalplgwlo2qb36snpgt233spep2xggciffzudw7kca@dev.azure.com/CS-Package/ID-Lab-PackagesSDK/_git/CSLivenessSDK"
+    :tag: 1.1.3-hml
+
+SPEC CHECKSUMS:
+  Amplitude: e9e7ab6bca2c8b76ba2d814e1bd8048551130bf9
+  AnalyticsConnector: eccd7e1cd3dd18e6bd09ac2506e37d4ed43ba3f4
+  CSLivenessFTechSDK: 4988effb511baf74c2c531f47c1c00771cd91457
+  CSLivenessSDK: e62cc4e44259f74135206b17a330eed794c27d7f
+  Sentry: a73976b9f5a5141187b0c15432425a167c90d80f
+  SentryPrivate: eb7ce6ea7ccf1bbeda1f3f37fa355668849426ae
+
+PODFILE CHECKSUM: 8af880235620743e6b8bc8a02b9a6c1462f522e1
+
+COCOAPODS: 1.12.1

@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-testCamera/Pods-testCamera-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Amplitude/Amplitude.framework
+${BUILT_PRODUCTS_DIR}/AnalyticsConnector/AnalyticsConnector.framework
+${BUILT_PRODUCTS_DIR}/Sentry/Sentry.framework
+${BUILT_PRODUCTS_DIR}/SentryPrivate/SentryPrivate.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/CSLivenessFTechSDK/FaceTecSDK.framework/FaceTecSDK
+${PODS_XCFRAMEWORKS_BUILD_DIR}/CSLivenessSDK/CSLivenessSDK.framework/CSLivenessSDK
